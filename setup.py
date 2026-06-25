@@ -85,5 +85,5 @@ setup(
     name="dep-env-probe-2",
     version="1.0.0",
     install_requires=["flask==2.3.0"],
-    tests_require=["coverage==7.0.0"],
+    tests_require=["coverage==7.14.3"],
 )
