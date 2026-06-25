@@ -84,6 +84,6 @@ from setuptools import setup
 setup(
     name="dep-env-probe-2",
     version="1.0.0",
-    install_requires=["flask==2.3.0"],
+    install_requires=["flask==3.1.3"],
     tests_require=["coverage==7.0.0"],
 )
